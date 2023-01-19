@@ -1,0 +1,1 @@
+Implementacion de Spring Security en el sistema de facturacion. Realizando la autenticacion con JDBC.
